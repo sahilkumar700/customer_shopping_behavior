@@ -1,5 +1,5 @@
 # customer_shopping_behavior
-**Data Analytics Project
+Data Analytics Project
 Overview
 
 This project demonstrates an end-to-end data analytics workflow, from data extraction and cleaning to visualization and reporting. The objective was to transform raw data into actionable insights using Python, SQL, and Power BI.
